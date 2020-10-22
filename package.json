@@ -1,0 +1,16 @@
+{
+  "name": "polkadotjs-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "last-block": "node lastBlock.js",
+    "block-by-number": "node blockByNumber.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.3.1"
+  }
+}
