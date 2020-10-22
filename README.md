@@ -31,7 +31,7 @@ Result:
 
 ### Query by block hash
 
-Run `yarn run block-hash x`, where `x` is the block hash.
+Run `yarn run block-by-hash x`, where `x` is the block hash.
 
 Result:
 
