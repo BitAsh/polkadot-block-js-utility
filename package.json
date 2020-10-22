@@ -6,6 +6,7 @@
   "scripts": {
     "last-block": "node lastBlock.js",
     "block-by-number": "node blockByNumber.js",
+    "block-by-hash": "node blockByHash.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
